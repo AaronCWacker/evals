@@ -1,3 +1,14 @@
+Evals is a place where people test and improve OpenAI robots. You can use Evals to check how good a robot is at finishing a task and compare robots to see which one is the best at a task. To use Evals, you need to set up a special key and follow some instructions. There's a special offer where you can use a new robot called GPT-4 if you make a really good test!
+
+To make a test, you need to follow some instructions in order. First, set up your key and computer. Second, learn how to use tests other people made. Third, look at some examples to see how tests are made. Fourth, make your own test by following the instructions. Fifth, see an example of how to do something special with your test.
+
+You can ask questions if you get stuck. Be careful when you use Evals because it can be expensive!
+
+
+
+
+
+
 🔹 Use 🐼, 🌈, or 🏃 to make fun buttons and things you can click and move around on the screen!
 
 🔹 Get real-time feedback when you make changes to your code using a 🐕, a 🔁, or a 🔄!
