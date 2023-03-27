@@ -4,9 +4,51 @@ To make a test, you need to follow some instructions in order. First, set up you
 
 You can ask questions if you get stuck. Be careful when you use Evals because it can be expensive!
 
+Give a url for each of these python eval sdk libraries, and return a one sentence or less outline per item along with emoji icons and url for each: dependencies = [
+    "mypy",
+    "openai >= 0.27.2",
+    "tiktoken",
+    "blobfile",
+    "backoff",
+    "numpy",
+    "snowflake-connector-python[pandas]",
+    "pandas",
+    "fire",
+    "pydantic",
+    "tqdm",
+    "nltk",
+    "filelock",
+    "mock",
+    "langdetect",
+    'termcolor',
+    "lz4",
+    "pyzstd",
+    "pyyaml",
+    "sacrebleu",
+    "matplotlib",
+]
 
+libraries with a brief description and their URLs:
 
-
+mypy 🎓 (type checking) - http://mypy-lang.org/ - a tool that helps you write better Python code by checking your types and finding errors before you run your code.
+openai 🤖 (OpenAI models) - https://pypi.org/project/openai/ - an open-source library that lets you access OpenAI's powerful AI models and algorithms, like GPT-3 and DALL-E.
+tiktoken 🔑 (authentication) - https://pypi.org/project/tiktoken/ - a library for generating and managing secure tokens for authentication.
+blobfile 🗄️ (file storage) - https://github.com/guardian/blobfile - a library for storing and retrieving files using cloud-based storage services.
+backoff 🔄 (error handling) - https://github.com/litl/backoff - a library for adding retries and exponential backoff to your code to handle errors more gracefully.
+numpy 🔢 (numerical computing) - https://numpy.org/ - a library for numerical computing in Python, with support for arrays, matrices, and mathematical operations.
+snowflake-connector-python[pandas] ☃️ (database connector) - https://pypi.org/project/snowflake-connector-python/ - a library for connecting to Snowflake, a cloud-based data warehouse, and handling data in pandas DataFrames.
+pandas 🐼 (data manipulation) - https://pandas.pydata.org/ - a library for data manipulation and analysis, with support for data structures like DataFrames and Series.
+fire 🔥 (command-line interface) - https://github.com/google/python-fire - a library for automatically generating command-line interfaces (CLIs) from Python code.
+pydantic 🤖 (data validation) - https://pydantic-docs.helpmanual.io/ - a library for data validation and modeling, with support for complex data structures and type annotations.
+tqdm 🔄 (progress bar) - https://tqdm.github.io/ - a library for adding progress bars to your code to monitor long-running processes.
+nltk 📖 (natural language processing) - https://www.nltk.org/ - a library for natural language processing, with support for tasks like tokenization, part-of-speech tagging, and sentiment analysis.
+filelock 🔒 (file locking) - https://github.com/benediktschmitt/py-filelock - a library for creating and managing file locks to prevent conflicts between concurrent processes accessing the same file.
+mock 🃏 (testing) - https://github.com/testing-cabal/mock - a library for creating mock objects and functions for unit testing.
+langdetect 🌐 (language detection) - https://pypi.org/project/langdetect/ - a library for detecting the language of text.
+termcolor 🌈 (text coloring) - https://pypi.org/project/termcolor/ - a library for adding colors and formatting to text in the terminal.
+lz4 📦 (compression) - https://github.com/python-lz4/python-lz4 - a library for compressing and decompressing data using the LZ4 algorithm.
+pyzstd 📦 (compression) - https://github.com/sergey-dryabzhinsky/python-zstd - a library for compressing and decompressing data using the Zstandard algorithm.
+pyyaml 🧪 (data serialization) - https://pyyaml.org
 
 
 🔹 Use 🐼, 🌈, or 🏃 to make fun buttons and things you can click and move around on the screen!
