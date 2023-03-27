@@ -1,3 +1,44 @@
+🔹 Use 🐼, 🌈, or 🏃 to make fun buttons and things you can click and move around on the screen!
+
+🔹 Get real-time feedback when you make changes to your code using a 🐕, a 🔁, or a 🔄!
+
+🔹 You can use different languages, like 🤝, 🦄, or 🐍, to talk to your computer and make it do cool things!
+
+🔹 You can use 🐼, 🔢, or 🚀 to move and manipulate numbers and data!
+
+🔹 Keep your data safe by using 🥒, 🛡️, or 🗄️ to save it between different times you use your computer!
+
+🔹 Make pretty graphs and pictures using 📈, 📊, or 🌟!
+
+🔹 Create your own website or app with 🚀, 🍶, or 🎸 and show it to your friends and family!
+
+🔹 Share your work with others and work together using 🐙, 🌐, or 📓!
+
+🔹 Use 🤖, 🔥, or 🧠 to teach your computer to recognize things like pictures and sounds!
+
+
+🤖 Evals is a place where people test and improve OpenAI robots!
+
+🔎 You can use Evals to check how good a robot is at finishing a task.
+
+🏆 You can compare robots to see which one is the best at a task.
+
+💻 To use Evals, you need to set up a special key and follow some instructions.
+
+🔥 There's a special offer where you can use a new robot called GPT-4 if you make a really good test!
+
+👉 You can learn how to make tests by following the instructions in this order:
+    1. Set up your key and computer.
+    2. Learn how to use tests other people made.
+    3. Look at some examples to see how tests are made.
+    4. Make your own test by following the instructions.
+    5. See an example of how to do something special with your test.
+
+📝 You can ask questions if you get stuck.
+
+🚨 Flashy Light activate!
+
+
 # Evals
 
 Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
