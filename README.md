@@ -1,3 +1,37 @@
+👩‍🏫 How to talk to ChatGPT🤖
+
+Install OpenAI library
+Pick a model like gpt-3.5-turbo
+Send messages & get answers
+Example:
+🔧 MODEL = "gpt-3.5-turbo"
+🗣️🔁response = openai.ChatCompletion.create(
+model=MODEL,
+messages=[
+{"role": "system", "content": "You are a helpful assistant."},
+{"role": "user", "content": "Knock knock."},
+{"role": "assistant", "content": "Who's there?"},
+{"role": "user", "content": "Orange."},
+],
+temperature=0,
+)
+
+🤖response['choices'][0]['message']['content'] = 'Orange who?'
+
+To ask for help, just start a message:
+🗣️ "Explain fractions like a pirate."
+
+Tips:
+✏️ Be clear in your messages
+🔄 Move system message to keep attention
+
+Questions? 🤔
+
+
+
+
+
+
 Evals is a place where people test and improve OpenAI robots. You can use Evals to check how good a robot is at finishing a task and compare robots to see which one is the best at a task. To use Evals, you need to set up a special key and follow some instructions. There's a special offer where you can use a new robot called GPT-4 if you make a really good test!
 
 To make a test, you need to follow some instructions in order. First, set up your key and computer. Second, learn how to use tests other people made. Third, look at some examples to see how tests are made. Fourth, make your own test by following the instructions. Fifth, see an example of how to do something special with your test.
